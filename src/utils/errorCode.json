@@ -1,0 +1,13 @@
+{
+    "WRONG_PASSWORD_OR_USERNAME": "Username or password is incorrect",
+    "PASSWORD_INVALID": "Password must have length between 6 to 20 characters",
+    "SAME_CURRENT_PASSWORD": "Your password is the same as the old one",
+    "WRONG_OLD_PASSWORD": "Old password is incorrect",
+    "ERR_CREATE_USER_DOB": "User is under 18. Please select a different date",
+    "ERR_CREATE_USER_JD_DOB": "Joined date is not later than Date of Birth. Please select a different date",
+    "ERR_CREATE_USER_JD": "Joined date is Saturday or Sunday. Please select a different date",
+    "ERR_USER_HAVE_VALID_ASSIGNMENT": "There are valid assignments belonging to this user. Please close all assignments before disabling user.",
+    "ERR_CATEGORY_NAME_EXISTED" : "Category is already existed. Please enter a different category",
+    "ERR_CATEGORY_CODE_EXISTED" : "Prefix is already existed. Please enter a different prefix",
+    "ERR_ASSET_STATE_NOT_CORRECT": "State is not correct"
+}

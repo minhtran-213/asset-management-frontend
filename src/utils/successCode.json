@@ -1,0 +1,5 @@
+{
+    "CHANGE_PASSWORD_SUCCESS": "Your password has been changed successfully!",
+    "USER_CREATED_SUCCESS": "Create user successful",
+    "DISABLE_USER_SUCCESS": "Disable user successfully"
+}

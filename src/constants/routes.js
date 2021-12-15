@@ -1,0 +1,15 @@
+export const Routes = {
+  StaffHome: '/home/staff',
+  AdminHome: '/home/admin',
+  Login: '/login',
+  ManageUser: '/manage/users',
+  ManageAsset: '/manage/assets',
+  ManageAssignment: '/manage/assignments',
+  ManageRequest: '/manage/requests',
+  ManageReport: '/manage/reports',
+  Notfound: '/not-found',
+  CreateUser: '/manage/users/create',
+  EditUser: '/manage/users/edit/:staffCode',
+  CreateAsset: '/manage/assets/create',
+  EditAsset: '/manage/assets/edit/:assetCode',
+};

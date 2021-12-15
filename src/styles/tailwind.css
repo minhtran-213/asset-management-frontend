@@ -1,0 +1,37 @@
+/**
+ * This injects Tailwind's base styles and any base styles registered by
+ * plugins.
+ */
+ @tailwind base;
+
+ /**
+  * This injects Tailwind's component classes and any component classes
+  * registered by plugins.
+  */
+ @tailwind components;
+ 
+ /**
+  * This injects Tailwind's utility classes and any utility classes registered
+  * by plugins.
+  */
+ @tailwind utilities;
+
+
+ .btn {
+    @apply font-bold py-2 px-4 rounded text-lg;
+  }
+  .btn-primary {
+    @apply bg-primary text-white;
+  }
+
+
+  .btn-disabled {
+    @apply bg-primary text-white opacity-50 cursor-not-allowed;
+  }
+
+
+  @layer utilities {
+    .mr-50rem {
+      margin-right: '50rem'
+    }
+  }

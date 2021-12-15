@@ -1,0 +1,14 @@
+[
+    {
+        "locationid": 101,
+        "address" : "Ho Chi Minh"
+    }, 
+    {
+        "locationid": 102,
+        "address" : "Ha Noi"
+    },
+    {
+        "locationid": 103,
+        "address" : "Da Nang"
+    }
+]
