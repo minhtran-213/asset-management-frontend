@@ -1,70 +1,67 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by Harvey Nash Company.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm install`
+
+Install all the neccessary package.
+
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Screenshots
 
-### `yarn test`
+**Login page**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/71303303/146122737-74355013-09b0-4c6a-9426-9f6fa6046c74.png)
 
-### `yarn build`
+**Manage user**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/71303303/146122818-332ba3de-73a3-4966-ae5e-502a60e81ba2.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Manage user > Create new User**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/71303303/146122852-2efacd41-2b50-4046-9070-23c6f67dc317.png)
 
-### `yarn eject`
+**Manage user > Edit user**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![image](https://user-images.githubusercontent.com/71303303/146123161-5a3b4341-2f2a-4216-b691-406b291a1d4b.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Manage user > Disable User**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![image](https://user-images.githubusercontent.com/71303303/146122888-b94bcddd-d255-458b-b114-6b5beddf6603.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Manage Asset**
 
-## Learn More
+![image](https://user-images.githubusercontent.com/71303303/146122926-66d3c194-1a6e-4548-80f6-685f7fa841f3.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Manage Asset > Create new asset**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://user-images.githubusercontent.com/71303303/146122966-66be1cad-6351-4bfa-8cac-edaab77cdccb.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Manage asset > Create new category**
 
-### Analyzing the Bundle Size
+![image](https://user-images.githubusercontent.com/71303303/146123006-be018cb5-837d-4128-9be9-7b81b1875705.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![image](https://user-images.githubusercontent.com/71303303/146123066-4e1eb88f-46b8-4ef5-bd1d-b8edc907d285.png)
 
-### Making a Progressive Web App
+**Manage asset > Edit asset**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![image](https://user-images.githubusercontent.com/71303303/146123210-473ee958-5772-47a5-aa6f-aaa02ccc90e2.png)
 
-### Advanced Configuration
+**Manage asset > Delete asset**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![image](https://user-images.githubusercontent.com/71303303/146123260-9d2860a5-16c1-4632-bf28-fc6d0163d2e1.png)
 
-### Deployment
+**Manage asset > Filter by State (Available)**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![image](https://user-images.githubusercontent.com/71303303/146123384-ce352f69-f896-41e6-a9b5-885c9a22d2e0.png)
 
-### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
